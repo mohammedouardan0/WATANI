@@ -1,1 +1,18 @@
+{
+  "name": "whatsapp-calculation-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot that calculates marks using venom-bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "venom-bot": "^4.0.5"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
 
